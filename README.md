@@ -11,7 +11,7 @@ note in POLY, or a stack of voices in UNISON.
 **[Download Highstead](https://github.com/idlefoundry/highstead/releases/latest)** ·
 [Quick start](docs/quick-start.md) ·
 [What’s new in 0.1.2](https://github.com/idlefoundry/highstead/releases/tag/v0.1.2) ·
-[Highstead on KVR](https://www.kvraudio.com/product/highstead-by-idle-foundry)
+[Official website & audio demos](https://www.idlefoundry.com/highstead)
 
 <p align="center">
   <img src="docs/images/highstead-keyboard.png" alt="Highstead’s ivory instrument panel, two oscillators, multimode filter, envelopes and playable keyboard" width="680">
