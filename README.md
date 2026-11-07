@@ -1,6 +1,6 @@
 # Highstead
 
-### The SEM circuit, made playable on your computer.
+### The classic SEM circuit, free and open-source
 
 **Highstead (CA-74)** is Idle Foundry’s free, open-source synthesizer modelled from the
 Oberheim SEM’s circuit. Play one voice like the original module, a whole module for each
